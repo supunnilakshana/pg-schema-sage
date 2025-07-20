@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "postgresql-migration": {
+      "command": "node",
+      "args": ["build/index.js"],
+      "cwd": "/Users/supunnilakshana/development/my_projects/ai/mcp_server/migration_server"
+    }
+  }
+}
